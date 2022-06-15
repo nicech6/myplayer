@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ASMIdeaPluginConfiguration">
+    <asm skipDebug="true" skipFrames="true" skipCode="false" expandFrames="false" />
+    <groovy codeStyle="LEGACY" />
+  </component>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.31302083333333336" />
+        <entry key="..\:/android_project/myplayer/app/src/main/res/layout/activity_main.xml" value="0.13496376811594202" />
+        <entry key="..\:/android_project/myplayer/myplayer_client/src/main/res/layout/activity_main.xml" value="0.13496376811594202" />
+        <entry key="..\:/android_project/myplayer/myplayer_client/src/main/res/layout/activity_new.xml" value="0.12952898550724637" />
+        <entry key="..\:/android_project/myplayer/myplayer_client/src/main/res/menu/menu_ping.xml" value="0.1" />
+        <entry key="..\:/android_project/myplayer/newapp/src/main/res/layout/activity_main.xml" value="0.14166666666666666" />
+        <entry key="..\:/play/myplayer/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
